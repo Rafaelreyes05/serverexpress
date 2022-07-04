@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    background-color: #1a1a1a;
+    color: antiquewhite;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+form{
+    width: 30%;
+    min-height: 100vh;
+}
+
+button{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
